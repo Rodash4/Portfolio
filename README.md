@@ -10,5 +10,6 @@ https://github.com/Rodash4/Portfolio
 # URL: 
 https://rodash4.github.io/Portfolio/
 
-assets/images/Portfolio Page.PNG
+![My Portfolio Page](assets/images/Portfolio Page.PNG)
+
 
